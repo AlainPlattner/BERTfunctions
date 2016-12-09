@@ -32,7 +32,7 @@ while ischar(strin)
             strin=fgets(fin);
         end
     end
-    counter=counter+1;
+   % counter=counter+1;
     strin=fgets(fin);
 end
 
