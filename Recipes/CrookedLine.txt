@@ -1,4 +1,4 @@
-How to project a croocked linear arrangements of electrodes onto a line:
+How to project a crooked linear arrangements of electrodes onto a line:
 
 1) Download
 https://www.mathworks.com/matlabcentral/fileexchange/16800-orthogonal-linear-regression
